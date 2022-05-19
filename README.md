@@ -1,2 +1,2 @@
 # Job-Search-G13
-a website for arbaminch city
+a  job searching website specifically designed for arbaminch city.
